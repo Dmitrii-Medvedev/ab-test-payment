@@ -68,4 +68,4 @@
 ---
 
 ## 📎 Ссылка на ноутбук
-🔗 [ab-test-payment.ipynb](https://github.com/Dmitrii-)
+🔗 [ab-test-payment.ipynb](https://github.com/Dmitrii-Medvedev/ab-test-payment/blob/main/ab-test-payment.ipynb)
